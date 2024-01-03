@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **maxiandrade62@gmail.com**
+- 📫 Reach me **maxiandrade62@gmail.com**
 
 - 📄 Know about my experiences [https://olive-leone-1.tiiny.site](https://olive-leone-1.tiiny.site)
 
