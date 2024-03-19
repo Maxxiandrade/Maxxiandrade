@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Maxi!</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [AthleteX](https://github.com/Maxxiandrade/AthleteX)
+- 🔭 I’m currently working on [Blink💡]([https://github.com/Maxxiandrade/AthleteX](https://github.com/Maxxiandrade/blink))
 
-- 🌱 I’m currently learning **Solid.js, Next.js and Typescript**
+- 🌱 I’m currently learning **Python, Next and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-maxis-projects-cc9455cd.vercel.app](https://portfolio-maxis-projects-cc9455cd.vercel.app)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node, Javascript**
 
 - 📫 Reach me **maxiandrade62@gmail.com**
 
